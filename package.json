@@ -34,7 +34,8 @@
     "electron": "38.1.2",
     "electron-builder": "26.0.12",
     "glob": "11.0.3",
-    "playwright": "^1.55.1"
+    "playwright": "^1.55.1",
+    "shadcn": "^3.6.2"
   },
   "dependencies": {
     "@app/main": "*"
